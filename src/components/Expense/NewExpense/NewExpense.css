@@ -37,3 +37,6 @@
     background-color: #ddb3f8;
   }
  
+  @media only screen and (max-width: 400px) {
+    .new-expense__actions button { padding: .5rem;}
+  }
